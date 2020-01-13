@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e13d725b-e5b0-49d1-910a-40938c21e84f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S5XjdycGDFuPvwZZHt79iD9A3q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.MainDemo">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sankuai.wangzizhou.demo.ExceptionDemo" />
+      <module name="concurrentdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sankuai.wangzizhou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sankuai.wangzizhou.demo.FutureDemo" />
+      <module name="concurrentdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sankuai.wangzizhou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sankuai.wangzizhou.demo.MainDemo" />
+      <module name="concurrentdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sankuai.wangzizhou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sankuai.wangzizhou.demo.ThreadLocalDemo" />
+      <module name="concurrentdemo" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang=concurrentdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sankuai.wangzizhou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UselessDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sankuai.wangzizhou.demo.UselessDemo" />
+      <module name="concurrentdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sankuai.wangzizhou.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadLocalDemo" />
+      <item itemvalue="Application.FutureDemo" />
+      <item itemvalue="Application.ExceptionDemo" />
+      <item itemvalue="Application.UselessDemo" />
+      <item itemvalue="Application.MainDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainDemo" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.UselessDemo" />
+        <item itemvalue="Application.FutureDemo" />
+        <item itemvalue="Application.ThreadLocalDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e13d725b-e5b0-49d1-910a-40938c21e84f" name="Default Changelist" comment="" />
+      <created>1570854566502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570854566502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="300" key="#Project_Structure" timestamp="1578660106122">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="780" y="300" key="#Project_Structure/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578660106122" />
+    <state x="744" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578901541391">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="744" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578901541391" />
+    <state x="744" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.313.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1578661433452" />
+    <state x="1153" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1573630836041">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="1153" y="385" key="#com.intellij.ide.util.MemberChooser/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1573630836041" />
+    <state width="2503" height="597" key="GridCell.Tab.0.bottom" timestamp="1578912636580">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1383" height="441" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578904299735" />
+    <state width="2503" height="597" key="GridCell.Tab.0.bottom/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578912636580" />
+    <state width="2503" height="628" key="GridCell.Tab.0.bottom/2560.313.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1578899493838" />
+    <state width="2133" height="494" key="GridCell.Tab.0.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574661337256" />
+    <state width="2503" height="597" key="GridCell.Tab.0.center" timestamp="1578912636578">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1383" height="441" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578904299733" />
+    <state width="2503" height="597" key="GridCell.Tab.0.center/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578912636578" />
+    <state width="2503" height="628" key="GridCell.Tab.0.center/2560.313.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1578899493837" />
+    <state width="2133" height="494" key="GridCell.Tab.0.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574661337255" />
+    <state width="2503" height="597" key="GridCell.Tab.0.left" timestamp="1578912636577">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1383" height="441" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578904299732" />
+    <state width="2503" height="597" key="GridCell.Tab.0.left/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578912636577" />
+    <state width="2503" height="628" key="GridCell.Tab.0.left/2560.313.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1578899493836" />
+    <state width="2133" height="494" key="GridCell.Tab.0.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574661337254" />
+    <state width="2503" height="597" key="GridCell.Tab.0.right" timestamp="1578912636579">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1383" height="441" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578904299734" />
+    <state width="2503" height="597" key="GridCell.Tab.0.right/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578912636579" />
+    <state width="2503" height="628" key="GridCell.Tab.0.right/2560.313.1440.877/0.0.2560.1440@0.0.2560.1440" timestamp="1578899493838" />
+    <state width="2133" height="494" key="GridCell.Tab.0.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574661337255" />
+    <state width="2133" height="575" key="GridCell.Tab.1.bottom" timestamp="1574393631206">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.1.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631206" />
+    <state width="2133" height="575" key="GridCell.Tab.1.center" timestamp="1574393631204">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.1.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631204" />
+    <state width="2133" height="575" key="GridCell.Tab.1.left" timestamp="1574393631203">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.1.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631203" />
+    <state width="2133" height="575" key="GridCell.Tab.1.right" timestamp="1574393631205">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.1.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631205" />
+    <state width="2133" height="575" key="GridCell.Tab.2.bottom" timestamp="1574393631227">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.2.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631227" />
+    <state width="2133" height="575" key="GridCell.Tab.2.center" timestamp="1574393631223">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.2.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631223" />
+    <state width="2133" height="575" key="GridCell.Tab.2.left" timestamp="1574393631223">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.2.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631223" />
+    <state width="2133" height="575" key="GridCell.Tab.2.right" timestamp="1574393631224">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.2.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631224" />
+    <state width="2133" height="575" key="GridCell.Tab.3.bottom" timestamp="1574393631210">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.3.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631210" />
+    <state width="2133" height="575" key="GridCell.Tab.3.center" timestamp="1574393631208">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.3.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631208" />
+    <state width="2133" height="575" key="GridCell.Tab.3.left" timestamp="1574393631207">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.3.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631207" />
+    <state width="2133" height="575" key="GridCell.Tab.3.right" timestamp="1574393631209">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.3.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631209" />
+    <state width="2133" height="575" key="GridCell.Tab.4.bottom" timestamp="1574393631214">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.4.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631214" />
+    <state width="2133" height="575" key="GridCell.Tab.4.center" timestamp="1574393631212">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.4.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631212" />
+    <state width="2133" height="575" key="GridCell.Tab.4.left" timestamp="1574393631211">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.4.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631211" />
+    <state width="2133" height="575" key="GridCell.Tab.4.right" timestamp="1574393631213">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.4.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631213" />
+    <state width="2133" height="575" key="GridCell.Tab.5.bottom" timestamp="1574393631218">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.5.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631218" />
+    <state width="2133" height="575" key="GridCell.Tab.5.center" timestamp="1574393631216">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.5.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631216" />
+    <state width="2133" height="575" key="GridCell.Tab.5.left" timestamp="1574393631215">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.5.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631215" />
+    <state width="2133" height="575" key="GridCell.Tab.5.right" timestamp="1574393631217">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.5.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631217" />
+    <state width="2133" height="575" key="GridCell.Tab.6.bottom" timestamp="1574393631222">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.6.bottom/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631222" />
+    <state width="2133" height="575" key="GridCell.Tab.6.center" timestamp="1574393631220">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.6.center/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631220" />
+    <state width="2133" height="575" key="GridCell.Tab.6.left" timestamp="1574393631219">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.6.left/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631219" />
+    <state width="2133" height="575" key="GridCell.Tab.6.right" timestamp="1574393631221">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="2133" height="575" key="GridCell.Tab.6.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631221" />
+    <state x="744" y="217" key="SettingsEditor" timestamp="1573629951400">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="744" y="217" key="SettingsEditor/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1573629951400" />
+    <state x="307" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1572500856413">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="307" y="227" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1572500856413" />
+    <state x="965" y="391" width="838" height="1049" key="search.everywhere.popup" timestamp="1578572671139">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="965" y="391" width="838" height="1049" key="search.everywhere.popup/2560.290.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1578572671139" />
+    <state x="965" y="395" width="838" height="998" key="search.everywhere.popup/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574660884006" />
+    <state x="965" y="408" width="838" height="1032" key="search.everywhere.popup/2560.313.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1573617655417" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/zulu11.33.15-ca-jdk11.0.4-macosx_x64/lib/src.zip!/jdk.unsupported/sun/misc/Unsafe.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/zulu11.33.15-ca-jdk11.0.4-macosx_x64/lib/src.zip!/jdk.unsupported/sun/misc/Unsafe.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sankuai/wangzizhou/demo/ThreadLocalDemo.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sankuai/wangzizhou/demo/FutureDemo.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
