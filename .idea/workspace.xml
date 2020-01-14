@@ -4,7 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e13d725b-e5b0-49d1-910a-40938c21e84f" name="Default Changelist" comment="" />
+    <list default="true" id="e13d725b-e5b0-49d1-910a-40938c21e84f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -269,10 +273,10 @@
       <screen x="0" y="23" width="2560" height="1370" />
     </state>
     <state width="2133" height="575" key="GridCell.Tab.6.right/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1574393631221" />
-    <state x="744" y="217" key="SettingsEditor" timestamp="1578915212401">
+    <state x="744" y="217" key="SettingsEditor" timestamp="1578917640958">
       <screen x="0" y="23" width="2560" height="1370" />
     </state>
-    <state x="744" y="217" key="SettingsEditor/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1578915212401" />
+    <state x="744" y="217" key="SettingsEditor/2560.313.1440.877/0.23.2560.1370@0.23.2560.1370" timestamp="1578917640958" />
     <state x="307" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1572500856413">
       <screen x="0" y="23" width="1440" height="830" />
     </state>

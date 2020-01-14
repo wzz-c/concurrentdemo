@@ -9,7 +9,7 @@ import com.sankuai.wangzizhou.demo.DemoServiceImpl;
  */
 module concurrentdemo {
     requires com.fasterxml.jackson.databind;
-    requires jackson.annotations;
+    requires com.fasterxml.jackson.annotation;
     requires jdk.unsupported;
     uses com.sankuai.wangzizhou.demo.DemoService;
     opens com.sankuai.wangzizhou.demo to com.fasterxml.jackson.databind;
